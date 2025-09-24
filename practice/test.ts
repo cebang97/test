@@ -1,0 +1,3 @@
+console.log("test");
+console.log("Hello, TypeScript!^^");
+console.log("Hello, TypeScript!^^");
